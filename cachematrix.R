@@ -1,5 +1,5 @@
 ## These functions creates a "special" matrix that caches the value of the 
-## matrix (x) and it's inverse (inv).  
+## matrix (x) and its inverse (inv).  
 # Author: 	William Karasz
 # Date:		6/28/2017
 
